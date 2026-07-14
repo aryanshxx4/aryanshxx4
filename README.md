@@ -9,22 +9,22 @@ Building AI-powered applications, scalable backend systems, and real-time experi
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;DevOps+Learner;Building+Projects+that+Matter;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Enthusiast;DevOps+Learner;Building+Projects+that+Matter;Always+Learning+🚀" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💼 IT Intern at **Indian Oil Corporation Limited (IOCL)**
+💼 **IT Intern @ Indian Oil Corporation Limited (IOCL)**
 
-🧠 Passionate about **Artificial Intelligence, Full Stack Development, and DevOps**
+🤖 Passionate about **Artificial Intelligence, Full Stack Development & DevOps**
 
-🏫 ATL In-charge mentoring students in **Arduino, IoT, Python & Embedded Systems**
+🏫 **ATL In-charge**, mentoring students in Arduino, IoT, Python & Embedded Systems
 
-🏆 **Best Project of the Year** — AndVibe
+🏆 **Best Project of the Year** — **AndVibe**
 
-🎓 MCA • **CGPA 9.83 / 10**
+🎓 **Master of Computer Applications (CGPA: 9.83/10)**
 
 🌱 Currently exploring
 
@@ -38,91 +38,120 @@ Building AI-powered applications, scalable backend systems, and real-time experi
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
-### AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-
----
-
-## 🌟 Featured Projects
-
-🚀 **AndVibe**  
-Personalized social media platform with real-time messaging and secure authentication.
-
-🤖 **AI Document Modification System**  
-Prompt-driven document editing powered by AI.
-
-🎯 **Real-Time Event & Community Platform**  
-ML recommendations + Socket.IO + AI moderation.
-
-🏫 **School Management Portal**  
-Production-ready PHP application currently maintained for a live school.
-
----
-
-## 📊 GitHub Analytics
+# 🌐 Connect With Me
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanshxx4&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=aryanshxx4&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshxx4&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://linkedin.com/in/aryanshxx4">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:aryan.n.shah.04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/immature_aryxx">
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+</a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,c,cpp,kotlin"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite"/>
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+- Hugging Face
+- Ollama
+- Scikit-Learn
+- Pandas
+- NumPy
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,nginx"/>
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 🚀 AndVibe
+A personalized social media platform featuring real-time messaging, secure authentication, trending vibes, hashtags, and developer integrations.
+
+### 🤖 AI Document Modification System
+Prompt-driven document editing platform with AI-assisted modifications, intelligent previews, and enterprise workflow automation.
+
+### 🎯 Real-Time Event & Community Platform
+A community platform featuring ML-powered recommendations, Socket.IO chat, AI moderation, and event management.
+
+### 🏫 School Management Portal
+Production-ready PHP web application currently deployed and maintained for a live school.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://linkedin.com/in/aryanshxx4"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:aryan.n.shah.04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://instagram.com/immature_aryxx"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryanshxx4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=aryanshxx4&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshxx4&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aryanshxx4&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanshxx4&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aryanshxx4&style=flat-square&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=aryanshxx4&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
 </p>
