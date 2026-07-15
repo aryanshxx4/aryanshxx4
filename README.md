@@ -126,18 +126,6 @@ Production-ready PHP web application currently deployed and maintained for a liv
 <img height="170" src="https://streak-stats.demolab.com/?user=aryanshxx4&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshxx4&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aryanshxx4&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
 # 📈 Contribution Graph
