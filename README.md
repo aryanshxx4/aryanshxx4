@@ -22,7 +22,7 @@ Building AI-powered applications, scalable backend systems, and real-time experi
 
 🏫 **ATL In-charge**, mentoring students in Arduino, IoT, Python & Embedded Systems
 
-🏆 **Best Project of the Year** — **AndVibe**
+🏆 **Best Project of the Year** - **AndVibe**
 
 🎓 **Master of Computer Applications (CGPA: 9.83/10)**
 
@@ -119,14 +119,14 @@ Production-ready PHP web application currently deployed and maintained for a liv
 
 ---
 
-# 📊 GitHub Analytics
+<!--# 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://streak-stats.demolab.com/?user=aryanshxx4&theme=tokyonight&hide_border=true"/>
-</p>
+</p> 
 
 ---
-
+-->
 # 📈 Contribution Graph
 
 <p align="center">
