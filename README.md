@@ -135,9 +135,9 @@ Production-ready PHP web application currently deployed and maintained for a liv
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aryanshxx4&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+</p> -->
 
 <p align="center">
 ⭐ If you like my work, consider starring my repositories!
